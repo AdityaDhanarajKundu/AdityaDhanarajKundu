@@ -6,7 +6,7 @@
 
 <div align="right" margin-top="0%"> <h3>Profile Views</h3> <img width="40%" src="https://profile-counter.glitch.me/{AdityaDhanarajKundu}/count.svg"> </div>
 
-- 💬 Ask me about **Java, Swing, C++, Python, Cloud**
+- 💬 Ask me about **Java, Javascript, Python, React, SpringBoot, NodeJs, Cloud**
 
 - 📫 How to reach me **adityadhanarajkundu@gmail.com**
 
