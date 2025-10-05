@@ -29,7 +29,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=java,py,cpp,c,js,kotlin&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=java,py,cpp,c,js,ts,kotlin&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -37,7 +37,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=spring,nodejs,express,flask&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=spring,nodejs,express,flask,net&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Databases, ORMs, Persistence Frameworks</strong></td>
