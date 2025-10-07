@@ -57,7 +57,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 </tr>
 <tr>
 	<td><strong>Operating Systems</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=windows,linux,ubuntu,kali&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Other Familiar Technologies</strong></td>
